@@ -1,4 +1,4 @@
-# Polar–India Climate ML 
+# Polar India Climate ML 
 ## Dataset-driven predictive models for ISMR, Sea Level Rise & Heat Extremes
 
 ### Files
