@@ -1,10 +1,5 @@
-# Polar–India Climate ML Suite
+# Polar–India Climate ML 
 ## Dataset-driven predictive models for ISMR, Sea Level Rise & Heat Extremes
-
-### Members
-Omisha Iyer
-Niharika Vuchintala
-Archie Patel
 
 ### Files
 | File | Purpose |
